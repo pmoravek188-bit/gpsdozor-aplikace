@@ -48,8 +48,15 @@ FleetView je určený pro fleet manažery, dispečery a provozní týmy, které 
 - Cache a inteligentní refresh podle změn polohy
 
 ## Spuštění
+
+### Jak spustit z GitHubu
 ```bash
+git clone https://github.com/pmoravek188-bit/gpsdozor-aplikace.git
+cd gpsdozor-aplikace
 npm install
-cp env.example .env  # vyplň GPSDOZOR_USERNAME a GPSDOZOR_PASSWORD
-npm run dev          # BFF (8787) + frontend (5173/5174)
+cp env.example .env
+# vyplň GPSDOZOR_USERNAME a GPSDOZOR_PASSWORD
+npm run dev
 ```
+Otevři `http://localhost:5173` (BFF běží na `http://localhost:8787`).
+
