@@ -43,6 +43,8 @@ FleetView je určený pro fleet manažery, dispečery a provozní týmy, které 
 - ChatGPT: revize UX, robustní parsování dat, opravy edge‑caseů, doporučení pro 10/10 prezentaci
 - Iterace: návrh → implementace → testy → UX polish
 
+- Cursor: rychlé prototypování a refactoring
+- Codex: asistence s opravami, testy a dokumentací
 ## Na co jsem narazil a jak jsem to řešil
 - Ne všechna vozidla mají data pro všechny senzory → výchozí `Speed`, automatické hledání období s daty, filtry a selektory
 - API vrací různé formáty odpovědí → normalizace dat před vykreslením
@@ -67,4 +69,3 @@ cp env.example .env
 npm run dev
 ```
 Otevři `http://localhost:5173` (BFF běží na `http://localhost:8787`).
-
