@@ -30,6 +30,14 @@ FleetView je určený pro fleet manažery, dispečery a provozní týmy, které 
 - `/vehicle/{code}/eco-driving-events`
 - `/vehicle/{code}/sensors/{types}`
 
+
+## Další veřejná API
+- Open‑Meteo (počasí)
+- Nominatim (reverzní geokódování)
+- OSRM (routing / optimalizace trasy)
+- Overpass (POI z OpenStreetMap)
+- Open‑Elevation (výškový profil)
+
 ## AI nástroje a workflow
 - Opus: první návrh struktury a komponent
 - ChatGPT: revize UX, robustní parsování dat, opravy edge‑caseů, doporučení pro 10/10 prezentaci
