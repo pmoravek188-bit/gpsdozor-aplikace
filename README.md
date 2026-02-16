@@ -1,7 +1,7 @@
 # FleetView — Fleet Management Dashboard
 
 ## Pro koho a proč
-FleetView je pro fleet manažery a dispečery, kteří potřebují rychlý a srozumitelný přehled o vozidlech na jednom místě. Smyslem je zkrátit čas na orientaci v datech: kde vozidla jsou, jak se s nimi jezdí, kolik najela a zda se neobjevují rizikové jízdní vzorce.
+FleetView je určený pro fleet manažery, dispečery a provozní týmy, které potřebují rychlý přehled o vozidlech na jednom místě. Cílem je zjednodušit každodenní dohled nad flotilou: poloha, jízdy, styl jízdy a technický stav.
 
 ## Co aplikace umí
 - Živá mapa s aktuální polohou a stavem vozidel

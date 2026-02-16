@@ -1,5 +1,8 @@
 # FleetView — Dokumentace
 
+## Pro koho a proč
+FleetView je určený pro fleet manažery, dispečery a provozní týmy, které potřebují rychlý přehled o vozidlech na jednom místě. Cílem je zjednodušit každodenní dohled nad flotilou: poloha, jízdy, styl jízdy a technický stav.
+
 ## Přehled
 FleetView je webová aplikace pro správu vozového parku s real-time trackingem, analýzou jízd, eco-driving monitoringem a vizualizací senzorových dat. Postavena na Vue 3, Pinia, Leaflet a Chart.js s bezpečným BFF proxy pro GPS Dozor API.
 
